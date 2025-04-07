@@ -1,4 +1,4 @@
-# cs_study_summary
+# [정복] 컴퓨터 사이언스 Computer Science Study
 ## 컴퓨터 사이언스 총 정리 오픈소스
 
 * 내용 계속 업데이트 됩니다.
